@@ -1,0 +1,33 @@
+/* Your styles here */
+main img {
+    align-content: center;
+padding:100px;
+height: 75px;
+
+}
+
+.text-center {
+text-align: center;
+width:100%
+}
+
+.bg-dark {
+color: #eaeded;
+background-color:#222f3e;
+
+}
+
+.bg-yellow{
+
+color:#eaeded;
+background-color:#f56600;
+
+}
+
+.py-1 {
+
+    padding: 1rem 0;
+}
+
+    
+
